@@ -6,4 +6,4 @@ Aynı zamanda bu repodan ulaşabileceğiniz görselleştirmeleri aşağıdaki ba
 
 - [Seaborn](https://nbviewer.jupyter.org/github/bkrsln/watched-films/blob/main/seaborn.ipynb)
 
-![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg =50x)
+![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
