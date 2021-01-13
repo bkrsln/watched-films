@@ -4,7 +4,7 @@
 
 Aynı zamanda bu repodan ulaşabileceğiniz görselleştirmeleri aşağıdaki bağlantılarda da inceleyebilirsiniz.
 
-- [Seaborn](https://nbviewer.jupyter.org/github/bkrsln/watched-films/blob/main/seaborn.ipynb)
+- [Seaborn ile hazırladığım veri görselleştirmeler](https://nbviewer.jupyter.org/github/bkrsln/watched-films/blob/main/seaborn.ipynb)
 
 ---
 
