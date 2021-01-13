@@ -5,3 +5,5 @@
 Aynı zamanda bu repodan ulaşabileceğiniz görselleştirmeleri aşağıdaki bağlantılarda da inceleyebilirsiniz.
 
 - [Seaborn](https://nbviewer.jupyter.org/github/bkrsln/watched-films/blob/main/seaborn.ipynb)
+
+![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
