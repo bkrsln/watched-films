@@ -6,4 +6,10 @@ Aynı zamanda bu repodan ulaşabileceğiniz görselleştirmeleri aşağıdaki ba
 
 - [Seaborn](https://nbviewer.jupyter.org/github/bkrsln/watched-films/blob/main/seaborn.ipynb)
 
+--
+
+![Pandas](https://pandas.pydata.org/docs/_static/pandas.svg)
+
 ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+
+![Bokeh](https://static.bokeh.org/logos/logotype.svg)
