@@ -1,3 +1,3 @@
-# my-watched-films
+# İzlediğim filmlerin veri analizi
 
-IMDb listeme "izledim" olarak eklediğim ve oyladığım filmleri Python'da analiz edip Bokeh ile görselleştirdim.
+2011 yılında üye olduğum IMDb'de izlediğim filmleri eklediğim ve oyladığım bir [listem](https://www.imdb.com/list/ls003368018/) var. Listedeki verilerin bana neler söylediğine kısaca bakmak istedim. Pandas ile yüklediğim .csv dosyasını Bokeh ve Seaborn ile iki ayrı dokümanda görselleştirdim.
